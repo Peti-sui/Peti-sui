@@ -45,4 +45,4 @@
 ## 🌟 About Me
 ```yaml
 👤 Name: Kevin Ramos
-🚀 Passion: Building cool stuff & leveling up every day
+🚀 Building cool stuff & leveling up every day 🚀
