@@ -30,6 +30,7 @@
   <img src="./assets/HTML.svg" width="60" alt="HTML"/>
    <img src="./assets/JavaScript.svg" width="60" alt="JavaScript"/>
     <img src="./assets/PHP-Dark.svg" width="60" alt="PHP"/>
+    <img src="./assets/Logo_Java.png" width="70" alt="Java"/>
      <img src="./assets/Powershell-Dark.svg" width="70" alt="PowerShell"/>
 </p>
 
@@ -44,4 +45,5 @@
 
 ## 🌟 About Me
 ```yaml
-🚀 Building cool stuff & leveling up every day 🚀
+👤 Name: Kevin Ramos
+🚀 Passion: Building cool stuff & leveling up every day
