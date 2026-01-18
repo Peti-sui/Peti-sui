@@ -45,5 +45,12 @@
 
 ## 🌟 About Me
 ```yaml
-👤 Name: Kevin Ramos
+<div align="center">
+
+| Peti-sui (Kevin) |
+| :---: |
+|<img src="https://i.postimg.cc/nzBFHmZ0/kindpng-246018.png" width="320"> |
+
+</div>
+
 🚀 Passion: Building cool stuff & leveling up every day
