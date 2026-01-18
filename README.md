@@ -46,11 +46,11 @@
 ## 🌟 About Me
 <div align="center">
 
-| Peti-sui (Kevin) |
+| Peti-sui -- Scoo(Kevin) |
 | :---: |
 |<img src="https://i.postimg.cc/nzBFHmZ0/kindpng-246018.png" width="320"> |
 
 </div>
-```yaml
 🚀 Passion: Building cool stuff & leveling up every day
+
 
