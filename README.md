@@ -50,9 +50,10 @@
 | Peti-sui -- Scoo |
 |       Kevin      |
 | :---: |
-|<img src="https://i.postimg.cc/nzBFHmZ0/kindpng-246018.png" width="320"> |
+|<img src="https://i.postimg.cc/nzBFHmZ0/kindpng-246018.png" width="220"> |
 
 </div>
+
 
 
 
