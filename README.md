@@ -45,7 +45,7 @@
 </p>
 
 ## About Me
-Passion for building web applications and improving every day <3
+Passion for building web applications and improving every day :3
 
 <div align="center">
 
