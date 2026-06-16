@@ -55,3 +55,7 @@ Passion for building web applications and improving every day :3
 | <img src="https://i.postimg.cc/nzBFHmZ0/kindpng-246018.png" width="300" height="auto" alt="Kevin"> |
 
 </div>
+
+<p align="center">
+  <img src="https://i.postimg.cc/nzBFHmZ0/kindpng-246018.png" width="500" alt="imagen">
+</p>
