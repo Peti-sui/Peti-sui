@@ -50,7 +50,7 @@ Passion for building web applications and improving every day :3
 <div align="center">
 
 | Peti-sui (Kevin) |
-| :---: | :---: |
+| :---: |
 | <img src="https://i.postimg.cc/nzBFHmZ0/kindpng-246018.png" width="320"> |
 
 </div>
