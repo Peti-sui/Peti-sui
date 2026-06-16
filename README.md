@@ -49,9 +49,16 @@ Passion for building web applications and improving every day :3
 
 <div align="center">
 
-| Peti-sui -- Scoo |
-|       Kevin      |
-| :---: |
-|<img src="https://i.postimg.cc/nzBFHmZ0/kindpng-246018.png" width="220" heigth="500"> |
+<h3>Peti-sui -- Scoo</h3>
+
+<strong>Kevin</strong>
+
+<br><br>
+
+<img
+  src="https://i.postimg.cc/nzBFHmZ0/kindpng-246018.png"
+  width="220"
+  alt="Kevin"
+/>
 
 </div>
