@@ -51,6 +51,6 @@ Passion for building web applications and improving every day :3
 
 | Peti-sui (Kevin) |
 | :---: | :---: |
-| <img src="https://i.postimg.cc/FzXKcZGS/dragonite-esp.png" width="450"> | <img src="https://i.postimg.cc/nzBFHmZ0/kindpng-246018.png" width="320"> |
+| <img src="https://i.postimg.cc/nzBFHmZ0/kindpng-246018.png" width="320"> |
 
 </div>
