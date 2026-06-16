@@ -47,4 +47,10 @@
 ## About Me
 Passion for building web applications and improving every day :3
 
-<div align="center"> | Peti-sui -- Scoo | | Kevin | | :---: | |<img src="https://i.postimg.cc/nzBFHmZ0/kindpng-246018.png" width="220" heigth="500"> | </div>
+<div align="center">
+
+| Peti-sui (Kevin) |
+| :---: | :---: |
+| <img src="https://i.postimg.cc/FzXKcZGS/dragonite-esp.png" width="450"> | <img src="https://i.postimg.cc/nzBFHmZ0/kindpng-246018.png" width="320"> |
+
+</div>
